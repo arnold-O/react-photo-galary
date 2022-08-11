@@ -9,8 +9,11 @@
   margin: 0 auto;
 }
 .search-form-wrapper{
+/* background-color: red; */
   display: flex;
+  justify-content: center;
   gap: 20px;
+ margin-top: 30px;
 }
 
 .input-search{
