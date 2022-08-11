@@ -28,6 +28,11 @@ function App() {
         <input type="text" className="input-search" placeholder="Search Photo" />
         <button className="search-Btn">Serach</button>
       </form>
+
+
+      <div className="photo-display-container">
+
+      </div>
     </div>
   );
 }
